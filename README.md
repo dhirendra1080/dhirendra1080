@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @dhirendra1080
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Dhirendra Pandey
+- 👀 I’m interested in Security Engineering
+- 🌱 I’m currently learning DevOps & Security
+- 💞️ I’m looking to collaborate on Latest tech
+- 📫 Reach on @ dhirendrapandey1080@gmail.com
 
 <!---
 dhirendra1080/dhirendra1080 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
